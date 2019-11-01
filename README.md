@@ -2,6 +2,9 @@
 ) ***VISITORS***
 
 
+![](solid_ed.gif)
+
+
 # SOLID-ENCRYPTOR-DECRYPTOR
 Work on One Time Pad
 
