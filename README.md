@@ -1,4 +1,5 @@
-[![HitCount](http://hits.dwyl.io/D-E-F-E-A-T/VITIAN-MINER.svg)](http://hits.dwyl.io/D-E-F-E-A-T/VITIAN-MINER) ***VISITORS***
+[![HitCount](http://hits.dwyl.io/D-E-F-E-A-TSOLID-ENCRYPTOR-DECRYPTOR.svg)](http://hits.dwyl.io/D-E-F-E-A-T/SOLID-ENCRYPTOR-DECRYPTOR
+) ***VISITORS***
 
 
 # SOLID-ENCRYPTOR-DECRYPTOR
